@@ -1,0 +1,14 @@
+{
+  "name": "binary_conversion",
+  "version": "1.0.0",
+  "description": "this is a javascript script to convert a number to binary ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "haritianaadriano",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
