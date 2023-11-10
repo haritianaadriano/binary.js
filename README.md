@@ -8,4 +8,6 @@
 
  ### Usecase :
 
-- """node index.js -i <<number-to-convert>> -b [NOT REQUIRED] <<boolean>>
+- ```
+    node index.js -i <number-to-convert> -b [NOT REQUIRED] <boolean> 
+  ```
